@@ -2,7 +2,7 @@
 SIAVC: Semi-Supervised Framework for Industrial Accident Video Classification
 
 <p align="center">
-  <img src="" width="550px"/>
+  <img src="Overview.png" width="550px"/>
 </p>
 
 # Dataset
@@ -10,7 +10,7 @@ The ECA9 dataset will be released soon.
 
 You can update your own data as:
 ```
-/data 
+/dataset 
   /dataset's name 
     /train
       /class1
