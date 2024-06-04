@@ -37,7 +37,7 @@ run SIAVC.py
 ```
 
 # Citation
-If you use this code for your research, please cite our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623010606).
+If you use this code for your research, please cite our [paper](https://arxiv.org/abs/2405.14506).
 ```
 @misc{li2024siavc,
       title={SIAVC: Semi-Supervised Framework for Industrial Accident Video Classification}, 
