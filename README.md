@@ -2,7 +2,7 @@
 SIAVC: Semi-Supervised Framework for Industrial Accident Video Classification
 
 <p align="center">
-  <img src="Overview.png" width="550px"/>
+  <img src="Overview.png" width="750px"/>
 </p>
 
 # Dataset
