@@ -40,6 +40,11 @@ You can update your own data as:
 ```    
 
 # Train
+
+SIAVC.py contains code for training and testing.
+
+SIAVC.py 中已经包含了训练以及测试的代码，设置好数据集路径之后运行即可。
+
 ```
 run SIAVC.py
 ```
