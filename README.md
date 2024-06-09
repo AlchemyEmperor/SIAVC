@@ -1,12 +1,15 @@
 # SIAVC
 SIAVC: Semi-Supervised Framework for Industrial Accident Video Classification
 
+我们提供了一个用于工业事故视频分类的半监督算法。
+
 <p align="center">
   <img src="Overview.png" width="750px"/>
 </p>
 
 # Dataset
 The ECA9 dataset will be released soon.
+我们构建了一个涵盖18类风险行为、9类典型安全事故的工业生成安全监控数据集(8000+小时)。但遗憾的是，由于签署了保密协议，我仅提供论文中所使用数据的pkl文件。
 <p align="center">
   <img src="ECA9.png" width="750px"/>
 </p>
