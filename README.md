@@ -10,9 +10,10 @@ PS. SIAVC's 2D version is coming soon
 </p>
 
 # Dataset
-The ECA9 dataset will be released soon.
+The ECA9 dataset is released at https://pan.baidu.com/s/1acHbQiuaPE1DZtBsyxibzQ?pwd=vrea 
+Password: vrea
 
-我们构建了一个9类典型安全事故的工业视频监控数据集, 并仅提供论文中所使用数据的pkl文件。 (由于涉及到企业隐私，数据集的公开被推迟了，正在流程中)
+
 
 <p align="center">
   <img src="ECA9.png" width="750px"/>
