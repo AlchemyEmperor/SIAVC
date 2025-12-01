@@ -3,7 +3,7 @@ SIAVC: Semi-Supervised Framework for Industrial Accident Video Classification
 
 我们提供了一个用于工业事故视频分类的半监督算法。
 
-PS. SIAVC's 2D version is coming soon
+[2025/12/1] Fixed the part of the code that caused model training to crash.
 
 <p align="center">
   <img src="Overview.png" width="750px"/>
